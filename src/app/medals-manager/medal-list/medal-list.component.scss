@@ -1,0 +1,61 @@
+.mat-row {
+  height: 60px; /* Set the desired height */
+}
+
+.mat-header-row {
+  height: 100px; /* Set the desired height */
+}
+
+.mat-header-cell {
+  font-size: 24px; /* Set the font size */
+}
+
+.mat-cell {
+  padding: 8px 16px; /* Adjust padding as needed */
+  font-size: 20px; /* Set the font size */
+  border-bottom: 1px solid #e0e0e0; /* Add a bottom border */
+}
+
+.flag-contry-container{
+  display: flex; /* create flexible layouts to align the flag and country */
+}
+
+.country-container{
+  padding-top: 6px;
+  padding-left: 10px;
+}
+
+.country-flag {
+  height: 40px;
+  width: 60px;
+}
+
+.circle {
+  width: 48px; /* Adjust the width of the circle */
+  height: 48px; /* Adjust the height of the circle */
+  border-radius: 50%; /* Make it a circle by setting border-radius to 50% */
+  background-color: lightgray; /* Background color of the circle */
+  display: flex; /* Use flexbox to center text horizontally and vertically */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  color: black; /* Text color */
+}
+
+
+.gold-medal{
+  background-color: gold; /* Background color of the circle */
+}
+
+.silver-medal{
+  background-color: silver; /* Background color of the circle */
+}
+
+.bronze-medal{
+  background-color: #dcb387; /* Background color of the circle */
+}
+
+.no-medal{
+  display: flex;
+  justify-content: center; /* Horizontally center the content */
+  align-items: center; /* Vertically center the content */
+}
