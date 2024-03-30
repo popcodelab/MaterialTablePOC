@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
-It is a POC to show quickly the use of Material for Angular Tables a few other component as chips.
+It is a POC to show quickly the use of Material for Angular Tables.
 
 ## Development server
 
