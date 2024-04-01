@@ -1,10 +1,3 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-markdown.svg)](https://forthebadge.com)
- [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
-
-
 
 # OlympicGames
 
@@ -35,3 +28,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-markdown.svg)](https://forthebadge.com)
+ [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
