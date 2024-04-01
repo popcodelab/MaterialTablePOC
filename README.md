@@ -1,3 +1,10 @@
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-markdown.svg)](https://forthebadge.com)
+
+
+
 # OlympicGames
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
